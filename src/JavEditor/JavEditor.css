@@ -1,0 +1,73 @@
+/* 
+    Document   : JavEditor
+    Created on : 22-ene-2014, 19:30:42
+    Author     : Usuario
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+    -fx-focus-color: transparent;
+}
+.tabpane .tab-header-area{
+    -fx-background-color: rgba(0,51,51,0.7);
+}
+.tabpane{
+    -fx-background-color: rgba(0,51,51,0.9);
+}
+.menu {
+    -fx-background-color:white;
+    -fx-color: grey;
+}
+.menu:focus{
+    -fx-background-color:white;
+    -fx-color: black;
+}
+.menuitem {
+    -fx-background-color: white;
+}
+.menuitem:hover{
+    -fx-background-color: grey;
+    -fx-color: white;
+    -fx-font-family: cursive;
+}
+.vox{
+    -fx-background-color: rgba(0,51,51,0.8);
+    -fx-border-style: none;
+}
+.listview {
+    -fx-border-style: none;
+    -fx-background-color: rgba(0,51,51,0.5);
+}
+.listview .list-cell{
+    -fx-background-color: rgba(0,51,51,0);
+}
+.listview .list-cell:empty {
+    -fx-background-color: rgba(0,51,51,0);
+}
+.listview .scroll-bar:vertical {
+    -fx-opacity:0;
+    -fx-background-color: transparent;
+    -fx-padding: -9px;
+}
+.textArea .scroll-bar:vertical {
+    -fx-opacity:0;
+    -fx-background-color: transparent;
+}
+.textArea { 
+    -fx-font:1.14em "Times New Roman"; 
+    -fx-focus-color: transparent;
+    -fx-alignment: top-left;
+    -fx-border-radius: 0;
+    -fx-border-style: none;
+}
+.tree-view .own-tree-cell:focused{
+    -fx-background-color:#cccccc;
+}
+
+
+
+
+
+
