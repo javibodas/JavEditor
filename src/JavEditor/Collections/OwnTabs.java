@@ -111,7 +111,7 @@ public class OwnTabs extends ArrayList<OwnTab>{
 
                 //Si abrimos una nueva pestaña como nuevo archivo 
                 if (!_isForOpen) {
-                    OwnTreeItem item = new OwnTreeItem("Sin Titulo",new ImageView(new Image("Texto.gif")));
+                    OwnTreeItem item = new OwnTreeItem("Sin Titulo",new ImageView(new Image("JavEditor/Images/Texto.gif")));
                     tabNuevo.setTreeItem(item);
                     item.setTab(tabNuevo);
                     item.setFather(tree.getItems());

@@ -4,18 +4,17 @@
  */
 package JavEditor.Elements;
 
-import JavEditor.Elements.OwnTreeItem;
-import JavEditor.Elements.OwnTab;
 import JavEditor.Collections.OwnTabs;
 import JavEditor.Collections.OwnTextAreas;
-
-
+import JavEditor.Elements.OwnTab;
+import JavEditor.Elements.OwnTreeItem;
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
 import javafx.event.EventHandler;
 import javafx.scene.control.ContextMenu;
 import javafx.scene.control.MenuItem;
+import javafx.scene.control.SelectionMode;
 import javafx.scene.control.TabPane;
 import javafx.scene.control.TreeCell;
 import javafx.scene.control.TreeItem;
@@ -26,6 +25,7 @@ import javafx.scene.input.MouseButton;
 import javafx.scene.input.MouseEvent;
 import javafx.util.Callback;
 import javax.swing.JOptionPane;
+import sun.reflect.generics.tree.Tree;
 
 /**
  *
@@ -45,6 +45,8 @@ public class OwnTreeView extends TreeView<String>{
         super();
         this.tabPane = pane;
         this.root = root;
+        
+        //this.getSelectionModel().setSelectionMode(SelectionMode.MULTIPLE);
         
         //Se ejecuta cuando se pincha con el ratón en algun elemento del arbol
         this.setOnMouseClicked(new EventHandler<MouseEvent>() {
@@ -121,7 +123,8 @@ public class OwnTreeView extends TreeView<String>{
                                 OwnTextArea a = areas.seleccionarArea();
                                 File f = new File(element.getPath());
                                 a.getTab().setText(f.getName());
-                                OwnTreeItem item = new OwnTreeItem(f.getName(),new ImageView( new Image("Texto.gif")));
+                                OwnTreeItem item = new OwnTreeItem(f.getName(),new ImageView( new Image("JavEditor/Images/Texto.gif")));
+                                a.getTab().setTreeItem(item);
                                 item.setTab(a.getTab());
                                 item.setFather(items);
                                 items.getChildren().add(item);
@@ -179,14 +182,10 @@ public class OwnTreeView extends TreeView<String>{
         this.items = new OwnTreeItem();
         this.setRoot(this.root);
         
-        this.items.setExpanded(true);
         this.items.setValue(" Open files");
-        this.projects.setExpanded(true);
-        this.projects.setValue(" Proyects");
+        this.projects.setValue(" Projects");
         this.root.getChildren().add(this.items);
         this.root.getChildren().add(this.projects);
-        this.root.setExpanded(true);
-    
     }
     
     public OwnTreeItem getProjects(){ return this.projects;}

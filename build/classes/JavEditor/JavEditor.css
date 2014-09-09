@@ -17,16 +17,13 @@ root {
     -fx-background-color: rgba(0,51,51,0.9);
 }
 .menu {
-    -fx-background-color:white;
-    -fx-color: grey;
-}
-.menu:focus{
-    -fx-background-color:white;
-    -fx-color: black;
-}
-.menuitem {
     -fx-background-color: white;
+    -fx-color: grey;
+     width:content-box;
 }
+.menu:focus{}
+.menuitem {}
+
 .menuitem:hover{
     -fx-background-color: grey;
     -fx-color: white;

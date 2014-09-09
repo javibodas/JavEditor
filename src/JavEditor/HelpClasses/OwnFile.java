@@ -12,7 +12,6 @@ import JavEditor.Elements.OwnTab;
 import JavEditor.Collections.OwnTextAreas;
 import JavEditor.Collections.OwnTabs;
 import JavEditor.Collections.Projects;
-import JavEdit.Project;
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.File;
@@ -62,7 +61,7 @@ public class OwnFile {
                 a.setFile(f);
                 OwnTab ta = a.getTab();
                 ta.updateNameTab(f.getName());
-                OwnTreeItem item = new OwnTreeItem(f.getName(),new ImageView( new Image("Texto.gif")));
+                OwnTreeItem item = new OwnTreeItem(f.getName(),new ImageView( new Image("JavEditor/Images/Texto.gif")));
                 ta.setTreeItem(item);
                 item.setTab(ta);
                 item.setFather(tree.getItems());
@@ -96,7 +95,7 @@ public class OwnFile {
         File f = chooser.ownShowOpenProjectsDialog();
 
         try {
-            OwnTreeItem item = new OwnTreeItem(f.getName(),new ImageView( new Image("Carpeta.gif")));
+            OwnTreeItem item = new OwnTreeItem(f.getName(),new ImageView( new Image("JavEditor/Images/Carpeta.gif")));
             item.setFather(tree.getProjects());
             tree.getProjects().getChildren().add(item);
             Project pro = new Project(f.getAbsolutePath());

@@ -19,7 +19,7 @@ import javafx.stage.Stage;
  *
  * @author Javier González Bodas
  */
-public class Sobre extends Application {
+public class About extends Application {
     
     private TextArea area;
     
@@ -27,7 +27,7 @@ public class Sobre extends Application {
     public void start(Stage primaryStage) {
         
         
-        Image imagen = new Image("Picture.jpg",600,550,false,false);
+        Image imagen = new Image("JavEditor/Images/Picture.jpg",600,550,false,false);
         ImageView img = new ImageView(imagen);
         StackPane root = new StackPane();
         root.getChildren().add(img);

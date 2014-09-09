@@ -4,7 +4,7 @@
  */
 package JavEditor.Collections;
 
-import JavEdit.Project;
+import JavEditor.HelpClasses.Project;
 import java.util.ArrayList;
 
 /**

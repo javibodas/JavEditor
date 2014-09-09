@@ -2,7 +2,7 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package JavEdit;
+package JavEditor.HelpClasses;
 
 import JavEditor.Elements.OwnTreeItem;
 import java.io.File;
@@ -50,11 +50,11 @@ public class Project {
             OwnTreeItem item2 = new OwnTreeItem(list[i].getName()); 
             item.getChildren().add(item2);
             if (list[i].isDirectory()) {
-                item2.setGraphic(new ImageView(new Image("CarpetaSecundaria.gif")));
+                item2.setGraphic(new ImageView(new Image("JavEditor/Images/CarpetaSecundaria.gif")));
                 open(list[i], item2);
             }
             if (list[i].isFile()) {
-                item2.setGraphic(new ImageView(new Image("Texto.gif")));
+                item2.setGraphic(new ImageView(new Image("JavEditor/Images/Texto.gif")));
                 item2.setPath(list[i].getAbsolutePath());
                 pathsFiles.add(list[i].getAbsolutePath());
             }

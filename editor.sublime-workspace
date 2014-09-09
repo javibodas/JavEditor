@@ -1,0 +1,617 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"HIG",
+				"highscore"
+			],
+			[
+				"end",
+				"endGameBad"
+			],
+			[
+				"hi",
+				"highscore"
+			],
+			[
+				"hig",
+				"highscore"
+			],
+			[
+				"high",
+				"highscore"
+			],
+			[
+				"mode",
+				"modegame"
+			],
+			[
+				"img",
+				"imgchecked"
+			],
+			[
+				"che",
+				"checkbox"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"hour",
+				"hourMinute"
+			],
+			[
+				"cal",
+				"calculateLeft"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"outline",
+				"outline-style"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"widt",
+				"width"
+			],
+			[
+				"fields",
+				"fieldscor"
+			],
+			[
+				"getE",
+				"getElementById"
+			],
+			[
+				"ch",
+				"checkeight"
+			],
+			[
+				"check",
+				"checked=\"true"
+			],
+			[
+				"table",
+				"table-cell"
+			],
+			[
+				"val",
+				"val"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"border",
+				"border-left"
+			],
+			[
+				"get",
+				"getItem"
+			],
+			[
+				"set",
+				"setValueFrame"
+			],
+			[
+				"getFRA",
+				"getFramesNoEmpty"
+			],
+			[
+				"dirs",
+				"dirsaux"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"content",
+				"content_entry"
+			],
+			[
+				"padding",
+				"padding-right"
+			],
+			[
+				"margi",
+				"margin-right"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"framesT",
+				"framesToRemove"
+			],
+			[
+				"highsco",
+				"highscore"
+			],
+			[
+				"color",
+				"colorBackground"
+			],
+			[
+				"add",
+				"addFrame"
+			],
+			[
+				"view",
+				"view"
+			],
+			[
+				"col",
+				"col"
+			],
+			[
+				"index",
+				"indexreMoves"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"pr",
+				"prototype"
+			],
+			[
+				"v",
+				"value"
+			],
+			[
+				"fr",
+				"framesModificates"
+			],
+			[
+				"fra",
+				"framesModificates"
+			],
+			[
+				"cuadros",
+				"cuadrosModificados"
+			],
+			[
+				"border-",
+				"border-top"
+			],
+			[
+				"g",
+				"getElementById"
+			],
+			[
+				"backgroun",
+				"background-color"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"persona",
+				"persona"
+			],
+			[
+				"sockad",
+				"sockaddr_in"
+			],
+			[
+				"pila",
+				"pila"
+			],
+			[
+				"L",
+				"L"
+			],
+			[
+				"lleno",
+				"lleno"
+			],
+			[
+				"buffer",
+				"buffer"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/SASS Build/SASS - Compressed.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"git commit ",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"git add ",
+				"Git: Add..."
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"git commit",
+				"Git: Commit"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"Packa",
+				"Package Control: Discover Packages"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"git push ",
+				"Git: Push Current Branch"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git ",
+				"Git: Status"
+			],
+			[
+				"git sta",
+				"Git: Status"
+			],
+			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"PACKA",
+				"Package Control: Install Package"
+			],
+			[
+				"packe",
+				"Package Control: Discover Packages"
+			],
+			[
+				"package",
+				"Package Control: Discover Packages"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/javier/Git/JavEditor/src/JavEditor/Elements/OwnTreeView.java",
+		"/home/javier/Git/JavEditor/src/JavEditor/Elements/OwnTreeItem.java",
+		"/home/javier/Git/JavEditor/src/JavEditor/Elements/OwnTextArea.java",
+		"/home/javier/Git/JavEditor/src/JavEditor/Elements/OwnTab.java",
+		"/home/javier/Git/JavEditor/src/JavEditor/Collections/Projects.java",
+		"/home/javier/Git/JavEditor/src/JavEditor/Collections/OwnTextAreas.java",
+		"/home/javier/Git/JavEditor/src/JavEditor/Collections/OwnTabs.java",
+		"/home/javier/Git/JavEditor/src/JavEditor/Windows/Sobre.java",
+		"/home/javier/Git/JavEditor/src/JavEditor/HelpClasses/OwnFile.java",
+		"/home/javier/Git/2048/js/endgame.js",
+		"/home/javier/Git/2048/js/controller.js",
+		"/home/javier/Git/2048/js/modegame.js",
+		"/home/javier/Git/2048/js/view.js",
+		"/home/javier/Git/2048/css/index.css",
+		"/home/javier/Git/2048/index.html",
+		"/home/javier/Git/2048/js/score.js",
+		"/home/javier/Git/2048/js/grid.js",
+		"/home/javier/Git/2048/js/frame.js",
+		"/home/javier/Git/2048/js/index.js",
+		"/home/javier/Git/2048/js/mobileCheck.js",
+		"/home/javier/Git/2048/template/map.html",
+		"/home/javier/Git/Clock/clock.html",
+		"/home/javier/Git/Clock/clock.css",
+		"/home/javier/Git/Clock/clock.js",
+		"/home/javier/Git/Foro/app/scss/links.scss",
+		"/home/javier/Git/Foro/app/scss/input.scss",
+		"/home/javier/Git/Foro/app/scss/foro.scss",
+		"/home/javier/Git/Foro/index.html",
+		"/home/javier/Git/Foro/app/scss/button.scss",
+		"/home/javier/Git/Foro/app/scss/form.scss",
+		"/home/javier/Git/Foro/app/scss/label.scss",
+		"/home/javier/Git/Foro/app/scss/colors.scss",
+		"/home/javier/Git/Foro/app/scss/body.scss",
+		"/home/javier/Git/Foro/app/css/foro.css",
+		"/home/javier/Git/BackBoneBlogJasonOffutt/BackboneBlog/scripts/views/EditView.js",
+		"/home/javier/Git/BackBoneBlogJasonOffutt/BackboneBlog/css/style.css",
+		"/home/javier/Git/BackBoneBlogJasonOffutt/BackboneBlog/index.html",
+		"/home/javier/Git/BackBoneBlogJasonOffutt/BackboneBlog/templates/blog.html",
+		"/home/javier/Git/BackBoneBlogJasonOffutt/BackboneBlog/templates/blogPost.html",
+		"/home/javier/Git/BackBoneBlogJasonOffutt/BackboneBlog/templates/editPost.html",
+		"/home/javier/Git/BackBoneBlogJasonOffutt/BackboneBlog/scripts/collections/BlogPostCollection.js",
+		"/home/javier/Git/BackBoneBlogJasonOffutt/BackboneBlog/scripts/models/BlogPost.js",
+		"/home/javier/Git/BackBoneBlogJasonOffutt/BackboneBlog/scripts/routers/BlogRouter.js",
+		"/home/javier/Git/javibodas.github.io/2048/css/index.css",
+		"/home/javier/Git/javibodas.github.io/2048/js/index.js",
+		"/home/javier/Git/Foro/app/css/index.css",
+		"/home/javier/Git/javibodas.github.io/css/todo.css",
+		"/home/javier/Git/Foro/app/js/init.js",
+		"/home/javier/Git/javibodas.github.io/index.html",
+		"/home/javier/Git/Foro/app/templates/jade/registro.jade",
+		"/home/javier/Git/Foro/app/templates/html/registro.html",
+		"/home/javier/Git/javibodas.github.io/foro/index.html",
+		"/home/javier/Git/Foro/app/scss/foot.scss",
+		"/home/javier/.cache/.fr-sbi0gX/d3.js",
+		"/home/javier/Git/Foro/app/scss/mixins.scss",
+		"/home/javier/Git/Foro/gulpfile.js",
+		"/home/javier/Git/Foro/index.jsp",
+		"/home/javier/Git/Foro/public/css/index.css",
+		"/home/javier/Git/Foro/public/js/init.js",
+		"/home/javier/Git/Foro/public/css/all.css",
+		"/home/javier/Git/Foro/public/scss/index.scss",
+		"/home/javier/Git/Foro/package.json",
+		"/home/javier/Git/Foro/public/templates/jade/registro.jade",
+		"/home/javier/Git/Foro/public/templates/html/registro.html",
+		"/home/javier/Git/Foro/public/scss/menu.scss",
+		"/home/javier/Git/Foro/public/js/backbone/models/usuario.js",
+		"/home/javier/Git/Foro/public/js/backbone/models/Model.js",
+		"/home/javier/Git/Foro/public/js/backbone/views/index.js",
+		"/home/javier/Git/Foro/public/templates/registro.jsp",
+		"/home/javier/Git/Foro/public/Registro.jsp",
+		"/home/javier/Git/Foro/public/MenuPrincipal.html",
+		"/home/javier/Git/javibodas.github.io/2048/js/controller.js",
+		"/home/javier/Git/javibodas.github.io/javascripts/main.js",
+		"/home/javier/Git/javibodas.github.io/2048/index.html",
+		"/home/javier/.config/sublime-text-2/Packages/User/Git.sublime-settings",
+		"/home/javier/.config/sublime-text-2/Packages/Git/Git.sublime-settings",
+		"/home/javier/Git/JuegoJS/js/view.js",
+		"/home/javier/Git/JuegoJS/js/controller.js",
+		"/home/javier/Git/JuegoJS/js/frame.js",
+		"/home/javier/Git/JuegoJS/js/grid.js",
+		"/home/javier/Git/JuegoJS/js/index.js",
+		"/home/javier/Git/JuegoJS/css/index.css",
+		"/home/javier/MisCosas/Libs/web-starter-kit-0.2.0-beta/gulpfile.js",
+		"/home/javier/.cache/.fr-Hf6cRr/web-starter-kit-0.2.0-beta/app/scripts/main.js",
+		"/home/javier/Git/JuegoJS/index.html",
+		"/home/javier/.config/sublime-text-2/Packages/All Autocomplete/package-metadata.json",
+		"/home/javier/.config/sublime-text-2/Packages/All Autocomplete/all_views_completions.pyc",
+		"/home/javier/.config/sublime-text-2/Packages/All Autocomplete/all_views_completions.py",
+		"/home/javier/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/javier/Informatica/TercerAño/Sistemas Operativos/DATSI/so/servidor.2014a/servidor.c",
+		"/home/javier/Informatica/TercerAño/Sistemas Operativos/DATSI/so/servidor.2014a/cliente_src/cliente.c",
+		"/home/javier/Informatica/TercerAño/Sistemas Operativos/DATSI/so/filtrar.2014a/filtrar.c",
+		"/home/javier/.config/sublime-text-2/Packages/Git/Default.sublime-keymap",
+		"/home/javier/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+		"/home/javier/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/javier/.config/sublime-text-2/Packages/Git/Default.sublime-commands",
+		"/home/javier/.config/sublime-text-2/Packages/Package Control/Package Control.sublime-settings",
+		"/home/javier/.config/sublime-text-2/Packages/User/Package Control.sublime-settings",
+		"/home/javier/.config/sublime-text-2/Packages/SASS Build/SASS - Compressed.sublime-build",
+		"/home/javier/.config/sublime-text-2/Packages/SASS Build/SASS.sublime-build",
+		"/home/javier/Git/javibodas.github.io/scss/todo.scss",
+		"/home/javier/Git/Foro/public/scss/all.scss",
+		"/home/javier/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/javier/Informatica/TercerAño/Sistemas Operativos/DATSI/so/filtrar.2014a/filtrar.h",
+		"/home/javier/Informatica/TercerAño/Sistemas Operativos/DATSI/so/filtrar.2014a/libfiltra_alfa.c",
+		"/home/javier/Informatica/TercerAño/Sistemas Operativos/DATSI/so/filtrar.2014a/libfiltra_delay.c",
+		"/home/javier/Informatica/TercerAño/Sistemas Operativos/DATSI/so/filtrar.2014a/libfiltra_void.c",
+		"/home/javier/Escritorio/prueba.c",
+		"/home/javier/Git/JuegoJS/app/js/index.js",
+		"/home/javier/Git/JuegoJS/app/js/frame.js",
+		"/home/javier/Git/JuegoJS/app/js/grid.js",
+		"/home/javier/Git/JuegoJS/scss/index.scss",
+		"/home/javier/.cache/.fr-3GTIIB/d3.js",
+		"/home/javier/Git/javibodas.github.io/scss/mixin.scss",
+		"/home/javier/Git/javibodas.github.io/scss/entradas.scss",
+		"/home/javier/Git/javibodas.github.io/css/entradas.css",
+		"/home/javier/Git/javibodas.github.io/css/stylesheet.css",
+		"/home/javier/Git/JuegoJS/index.js",
+		"/home/javier/Git/javibodas.github.io/stylesheets/stylesheet.css",
+		"/home/javier/Git/javibodas.github.io/stylesheets/pygment_trac.css",
+		"/home/javier/Git/Foro/public/scss/variables.scss",
+		"/home/javier/Informatica/TercerAño/Programación para Sistemas(Aprobada)/pps/tarea-2.3.2013-2014/factores.c",
+		"/home/javier/Libs/Jquery/jquery/src/jquery.js",
+		"/home/javier/Git/Foro/app/css/index.scss",
+		"/home/javier/Informatica/TercerAño/Inteligencia Artificial/Practica/CD/IA/src/ia/Fondo.java",
+		"/home/javier/Git/Foro/app/package.json",
+		"/home/javier/Git/Editor/JavEditor/src/JavEditor/JavEditor.java",
+		"/home/javier/Informatica/TercerAño/Programación para Sistemas(Aprobada)/pps/tarea-2.3.2013-2014/factores"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"<div",
+			"label",
+			"class=\"inpt inpt-form\"",
+			".inpt inpt-form",
+			"form-control",
+			"3",
+			"public",
+			"button",
+			"this.score",
+			"'",
+			"console",
+			"c",
+			"C",
+			"c",
+			"frame",
+			"frame.",
+			"this.",
+			"this",
+			"comment",
+			"ctrl+Ç",
+			"colums",
+			"sd_udp",
+			"sendto",
+			"Error al emitir el fichero",
+			"HOST_"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.git":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"index.js",
+				"JuegoJS/js/index.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/home/javier/sublime-packages/JuegoJs.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 228.0,
+	"status_bar_visible": true
+}

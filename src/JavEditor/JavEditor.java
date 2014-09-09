@@ -6,7 +6,7 @@ package JavEditor;
 
 import JavEditor.Collections.*;
 import JavEditor.Elements.*;
-import JavEditor.Windows.Sobre;
+import JavEditor.Windows.About;
 import JavEditor.HelpClasses.OwnFile;
 
 import java.util.ArrayList;
@@ -395,7 +395,7 @@ public class JavEditor extends Application {
             @Override
             public void handle(ActionEvent t) {
                 Stage stage = new Stage();
-                Sobre sobre = new Sobre();
+                About sobre = new About();
                 sobre.start(stage);
             }
         });
@@ -430,6 +430,7 @@ public class JavEditor extends Application {
         tree.createChilds();
         tree.setPrefHeight(20);
         tree.getStyleClass().add("tree-view");
+        
         
         //Si una tecla es pulsada se almacena el codigo en la lista codigoTeclas y si hay mas de 1
         //se realiza la comprobacion de las teclas pulsadas.
